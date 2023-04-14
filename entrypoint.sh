@@ -105,7 +105,7 @@ generate_config() {
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -133,7 +133,7 @@ generate_config() {
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -161,7 +161,7 @@ generate_config() {
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
@@ -190,7 +190,7 @@ generate_config() {
                 }
             },
             "sniffing":{
-                "enabled":true,
+                "enabled":false,
                 "destOverride":[
                     "http",
                     "tls",
